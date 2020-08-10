@@ -10,3 +10,5 @@
 [Image](src)
 а ссылки
 [Link](url)
+
+![Branching](test.jpg)
